@@ -47,6 +47,7 @@ a {
     line-height: 1.4;
     text-align: center;
     padding-top: 20vh;
+    font-family: Arial;
 }
 .sub-heading{
     text-align: center;
@@ -97,9 +98,11 @@ a {
 }
 .body-text-1{
     font-size: 1.5rem;
+    font-family: Arial;
 }
 .body-text-2{
     font-size: 2.5rem;
+    font-family: Arial;
 }
 .carouselGame{
     padding-top: 30vh;
@@ -125,39 +128,48 @@ a {
     padding-top: 25vh;
     margin-bottom: 5vh;
     font-size: 1.2rem;
+    font-family: Arial;
 }
 .features-text-2{
     padding-left: 55vw;
     font-size: 3rem;
+    font-family: Arial;
 }
 .features-detail-text{
-    display: flex;
-    flex-direction: column;
+    padding-left: 55vw;
+    padding-top: 10vh;
+    font-family: Arial;
+}
+.icon1{
+    padding-top: 1vh;
+}
+.icon2{
+    padding-left: 0.5vw;
+}
+.icon3{
+    padding-left: 0.01vw;
+}
+.icon4{
+    padding-top: 5vh;
 }
 .features-detail-text-1{
-    color:rgb(72, 138, 77);
+    color: rgba(255, 181, 72, 1);
     font-weight:900;
-    margin-left: 55vw;
-    margin-top: 10vh;
     line-height: 4vh;
 }
 .features-detail-text-2{
     font-size: 0.9rem;
-    margin-left: 55vw;
-    margin-top: 1vh;
     line-height: 2vh;
 }
 .features-detail-text-3{
-    color:rgb(72, 138, 77);
+    color: rgba(255, 181, 72, 1);
     font-weight:900;
-    margin-left: 55vw;
-    margin-top: 8vh;
+    padding-top: 15vh;
 }
 .features-detail-text-4{
-    color:rgb(72, 138, 77);
+    color: rgba(255, 181, 72, 1);
     font-weight:900;
-    margin-left: 55vw;
-    margin-top: 8vh;
+    padding-top: 5.8vh;
 }
 .requirements{
     position: relative;
@@ -180,6 +192,7 @@ a {
     font-size: 3rem;
     margin-left: 10vw;
     margin-top: 20vh;
+    font-family: Arial;
 }
 .requirements-text-2{
     font-size: 1rem;
@@ -211,6 +224,7 @@ td{
     font-size: 1.5rem;
     padding-left: 2vw;
     padding-top: 1.7vh;
+    font-family: Arial;
 }
 .tbody-text-2{
     font-size: 1rem;
@@ -246,6 +260,7 @@ td{
 }
 .ts-text{
     font-size: 2.5rem;
+    font-family: Arial;
 }
 .ts-text-1{
     font-size: 0.9rem;
@@ -297,6 +312,7 @@ td{
     color: #FFB548;
     font-size: 1.1rem;
     line-height: 2.5vh;
+    font-family: Arial;
 }
 .card1-text2{
     font-size: 0.8rem;
@@ -336,10 +352,12 @@ td{
 .news-text-h{
     font-size: 4rem;
     line-height: 1.2em;
+    font-family: Arial;
 }
 .news-text-p1{
     font-size: 0.8em;
     margin-bottom: 6vh;
+    font-family: Arial;
 }
 .inputEmail{
     font-size: 0.8rem;
